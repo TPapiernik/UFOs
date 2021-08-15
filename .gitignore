@@ -38,6 +38,7 @@ MANIFEST
 .gitignore~
 ..gitignore.un~
 *.html~
+*.css~
 *.js~
 *_NAMES.txt
 config.py
