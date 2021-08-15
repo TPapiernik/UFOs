@@ -43,7 +43,7 @@ function handleClick() {
     // @NOTE: If no date was entered, then filteredData will
     // just be the original tableData.
     buildTable(filteredData);
-};
+}
 
 // END Function Definitions
 
